@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow-icon {
+  height: 20px;
+  width: 25px;
+  cursor:pointer;
+  outline:none;
+}
+.suggestion {
+  color: #475569;
+  font-size: 20px;
+}
